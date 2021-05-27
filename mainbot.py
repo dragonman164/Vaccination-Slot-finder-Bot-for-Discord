@@ -64,4 +64,4 @@ async def on_command_error(ctx,err):
 
 
 ## Put your bot token here
-client.run('Nzc0OTE5ODU4MjEwOTk2MjY2.X6eyWw.X_KtaNVSgqP26HbcvFqEhl9uK-E')
+client.run('toen here')
